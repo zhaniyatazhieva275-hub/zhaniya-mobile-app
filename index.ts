@@ -1,3 +1,4 @@
+C:\Users\Ulbala\lesson-01\index.ts
 import { registerRootComponent } from 'expo';
 
 import App from './App';
